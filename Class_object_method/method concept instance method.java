@@ -1,4 +1,5 @@
-
+//in instance method we have to call method through ibject because main method is static and in static area we cannot call instance method therefore it is 
+//compulsory to call it through object.
 
 //method to calculate square root of any number 
 import java.lang.Math;
